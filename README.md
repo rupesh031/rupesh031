@@ -27,6 +27,6 @@
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rupesh031&show_icons=true&locale=en" alt="rupesh031" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rupesh031)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rupesh031&show_icons=true&theme=radical)
