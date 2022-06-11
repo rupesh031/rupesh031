@@ -10,11 +10,6 @@
 
 - 📫 How to reach me **rupeshyadav8178@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/rupeshy36760257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rupeshy36760257" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rupesh-yadav-634879229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rupesh-yadav-634879229/" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages:</h3>
 <p align="left" 
@@ -30,3 +25,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rupesh031&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rupesh031&show_icons=true&theme=radical)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/rupeshy36760257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rupeshy36760257" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rupesh-yadav-634879229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rupesh-yadav-634879229/" height="30" width="40" /></a>
+</p>
