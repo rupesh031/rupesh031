@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Rupesh Yadav</h1>
 <h3 align="center">Software and Game Development</h3>
 
-- 🌱 I’m currently learning **tensorflow,django.**
+- 🌱 I’m currently learning **django,flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rupesh031](https://github.com/rupesh031)
 
