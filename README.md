@@ -2,6 +2,9 @@
 <h1 align="center">Hi 👋, I'm Rupesh Yadav</h1>
 <h3 align="center">Software and Game Development</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rupesh031&label=Profile%20views&color=0e75b6&style=flat" alt="rupesh031" /> </p>
+
+
 - 🌱 I’m currently learning **django,flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rupesh031](https://github.com/rupesh031)
@@ -28,7 +31,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rupesh031&theme=radical" alt="rupesh031" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rupesh031&label=Profile%20views&color=0e75b6&style=flat" alt="rupesh031" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
