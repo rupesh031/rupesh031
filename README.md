@@ -5,11 +5,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupesh031&label=Profile%20views&color=0e75b6&style=flat" alt="rupesh031" /> </p>
 
 
-- 🌱 I’m currently learning **django,flutter**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rupesh031](https://github.com/rupesh031)
 
-- 💬 Ask me about **python,sockets.**
+- 💬 Ask me about **React, Python**
 
 - 📫 How to reach me **rupeshyadav8178@gmail.com**
 
