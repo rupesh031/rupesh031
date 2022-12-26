@@ -26,6 +26,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rupesh031&show_icons=true&theme=radical)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rupesh031&" alt="rupesh031" /></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rupeshy36760257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rupeshy36760257" height="30" width="40" /></a>
