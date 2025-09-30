@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/rupesh031](https://github.com/rupesh031)
 
-- 💬 Ask me about **React, Python**
-
 - 📫 How to reach me **rupeshyadav8178@gmail.com**
 
 
